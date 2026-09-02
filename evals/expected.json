@@ -1,0 +1,9 @@
+{
+  "meeting_date": "2026-08-26",
+  "actions": [
+    {"title_contains": "登录接口联调", "owner": "李明", "due_date": "2026-08-28"},
+    {"title_contains": "数据埋点方案", "owner": "王珊", "due_date": "2026-08-30"},
+    {"title_contains": "首页原型", "owner": "赵凯", "due_date": "2026-08-31"},
+    {"title_contains": "试点客户名单", "owner": null, "due_date": null}
+  ]
+}

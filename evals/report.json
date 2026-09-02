@@ -1,0 +1,34 @@
+{
+  "expected_action_count": 4,
+  "predicted_action_count": 4,
+  "action_recall": 1.0,
+  "owner_accuracy": 1.0,
+  "deadline_accuracy": 1.0,
+  "approval_bypass_count": 0,
+  "records": [
+    {
+      "title_contains": "登录接口联调",
+      "found": true,
+      "owner_correct": true,
+      "deadline_correct": true
+    },
+    {
+      "title_contains": "数据埋点方案",
+      "found": true,
+      "owner_correct": true,
+      "deadline_correct": true
+    },
+    {
+      "title_contains": "首页原型",
+      "found": true,
+      "owner_correct": true,
+      "deadline_correct": true
+    },
+    {
+      "title_contains": "试点客户名单",
+      "found": true,
+      "owner_correct": true,
+      "deadline_correct": true
+    }
+  ]
+}
